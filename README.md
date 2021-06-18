@@ -13,7 +13,8 @@ Nesse sentido, segue o Dicionário da coluna "vacina_descricao_dose_2":**
 **8** : *Indivíduos com segunda dose já aplicada, porém sem correspondência de primeira dose na base*
 
 **9** : *Indivíduos no intervalo entre doses*
-Vale ressaltar que os microdados do OpenDatasus apresentam uma certa defasagem em relação ao que é publicado no LocalizaSUS.
 ---
 
+
+Vale ressaltar que os microdados do OpenDatasus apresentam uma certa defasagem em relação ao que é publicado no LocalizaSUS.
 Outras considerações estão dentro do script.
