@@ -15,6 +15,7 @@ Nesse sentido, segue o Dicionário da coluna "vacina_descricao_dose_2":**
 **8** : *Indivíduos com segunda dose já aplicada, porém sem correspondência de primeira dose na base*
 
 **9** : *Indivíduos no intervalo entre doses*
+
 ---
 
 
