@@ -10,10 +10,11 @@ Nesse sentido, segue o Dicionário da coluna "vacina_descricao_dose_2":**
 
 **1** : *Indivíduos com segunda dose já aplicada*
 
+**0** : *Indivíduos que receberam vacina de dose única*
+
 **8** : *Indivíduos com segunda dose já aplicada, porém sem correspondência de primeira dose na base*
 
 **9** : *Indivíduos no intervalo entre doses*
-
 ---
 
 
