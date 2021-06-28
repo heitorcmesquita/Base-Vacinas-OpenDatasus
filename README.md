@@ -19,5 +19,9 @@ Nesse sentido, segue o Dicionário da coluna "vacina_descricao_dose_2":**
 ---
 
 
-Vale ressaltar que os microdados do OpenDatasus apresentam uma certa defasagem em relação ao que é publicado no LocalizaSUS. Alem disso, a célula #7 contém os nomes das vacinas
+Vale ressaltar que os microdados do OpenDatasus apresentam uma certa defasagem em relação ao que é publicado no LocalizaSUS. Além disso, em outra consideração importante, a célula #7 contém os nomes das vacinas que são colocados no sistema. Essa lista foi feita no dia 17/06, e novos nomes podem ter sido adicionados desde então. Por isso temos um script neste repositório que serve para extrair os nomes de vacinas no sistema, e pode ser verificado por cada usuário.
+
+No link a seguir estão os arquivos com os microdados:
+https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao
+
 Outras considerações estão dentro do script.
