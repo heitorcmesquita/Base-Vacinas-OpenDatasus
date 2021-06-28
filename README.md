@@ -19,5 +19,5 @@ Nesse sentido, segue o Dicionário da coluna "vacina_descricao_dose_2":**
 ---
 
 
-Vale ressaltar que os microdados do OpenDatasus apresentam uma certa defasagem em relação ao que é publicado no LocalizaSUS.
+Vale ressaltar que os microdados do OpenDatasus apresentam uma certa defasagem em relação ao que é publicado no LocalizaSUS. Alem disso, a célula #7 contém os nomes das vacinas
 Outras considerações estão dentro do script.
