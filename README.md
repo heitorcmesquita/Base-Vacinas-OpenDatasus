@@ -3,7 +3,7 @@
 Esse script gera uma base para análise dos dados de vacinação contra a Covid-19. O formato da base já vem perfeito para ferramentas de BI.
 É possível identificar pessoas com o esquema de vacinação atrasado.
 
-Nesse sentido, segue o Dicionário da coluna "vacina_descricao_dose_2":**
+Nesse sentido, segue o Dicionário da coluna "vacina_descricao_dose_2":
 
 ---
 **0** : *Indivíduos com segunda dose atrasada*
