@@ -3,6 +3,8 @@
 Esse script gera uma base para análise dos dados de vacinação contra a Covid-19. O formato da base já vem perfeito para ferramentas de BI.
 É possível identificar pessoas com o esquema de vacinação atrasado.
 
+São consideradas em atraso as segundas-doses de Astrazeneca que não aplicadas 99 dias após a 1ª Dose. O intervalo é reduzido para 45 dias para Pfizer e CoronaVac.
+
 Nesse sentido, segue o Dicionário da coluna "vacina_descricao_dose_2":
 
 ---
